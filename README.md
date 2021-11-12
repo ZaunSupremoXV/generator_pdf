@@ -1,6 +1,6 @@
 # generator_pdf
 
-A new Flutter project.
+Projeto exemplo de como criar um PDF salvar em um local temporário e compartilhar ele. 
 
 ## Getting Started
 
